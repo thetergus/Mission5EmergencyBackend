@@ -1,0 +1,21 @@
+{
+  "name": "backend_m5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/mongodb": "^4.0.7",
+    "dotenv": "^16.1.4",
+    "express": "^4.18.2",
+    "mongodb": "^5.6.0",
+    "mongoose": "^7.2.2"
+  },
+  "dependencies": {
+    "ejs": "^3.1.9"
+  }
+}
